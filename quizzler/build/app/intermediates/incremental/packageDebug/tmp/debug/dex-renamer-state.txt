@@ -1,0 +1,4 @@
+#Fri Dec 11 10:51:09 IST 2020
+base.0=/home/lucifer/Documents/Projects/Android/FlutterPractice/quizzler/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
